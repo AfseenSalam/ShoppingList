@@ -1,0 +1,14 @@
+D:\GC Practice\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.exe
+D:\GC Practice\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.deps.json
+D:\GC Practice\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.runtimeconfig.json
+D:\GC Practice\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.dll
+D:\GC Practice\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.pdb
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfoInputs.cache
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfo.cs
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.dll
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\refint\ShoppingList.dll
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.pdb
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.genruntimeconfig.cache
+D:\GC Practice\ShoppingList\ShoppingList\obj\Debug\net8.0\ref\ShoppingList.dll
